@@ -1,14 +1,14 @@
 {
-  "android_package_name": "org.jitsi.meet",
+  "android_package_name": "app.educrak.meet",
   "prefer_related_applications": true,
   "related_applications": [
     {
-      "id": "org.jitsi.meet",
+      "id": "app.educrak.meet",
       "platform": "chromeos_play"
     }
   ],
-  "short_name": "Jitsi Meet",
-  "name": "Jitsi Meet",
+  "short_name": "Educrak Meet",
+  "name": "Educrak Meet",
   "icons": [
     {
       "src": "static/pwa/icons/icon192.png",
